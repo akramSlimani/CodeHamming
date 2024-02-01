@@ -1,4 +1,4 @@
-package Hamming;
+package codeHamming;
 import java.lang.*;
 
 public class Transmission {

@@ -1,4 +1,4 @@
-package Hamming;
+package codeHamming;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
